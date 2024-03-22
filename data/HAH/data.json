@@ -1,0 +1,16 @@
+{
+  "name": "HAH stable",
+  "symbol": "HAH",
+  "decimals": "18",
+  "description": "a random token",
+  "website": "",
+  "twitter": "",
+  "tokens": {
+    "ethereum": {
+      "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F"
+    },
+    "base": {
+      "address": "0x443272d38f48f3bce273d4fde3850f32963b9eb5"
+    }
+  }
+}
